@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "feedUrl": "https://sspai.com/feed",
+  "sourceId": "sspai",
+  "title": "少数派",
+  "items": [
+    {
+      "id": "sspai-https://sspai.com/post/112551",
+      "title": "角落新声｜两平米、两个角落，安放两个自己",
+      "meta": "少数派 · 2026/8/3",
+      "url": "https://sspai.com/post/112551",
+      "publishedAt": "2026-08-03T02:52:56.000Z"
+    },
+    {
+      "id": "sspai-https://sspai.com/post/113014",
+      "title": "派早报：DeepSeek V4 Flash 正式版发布",
+      "meta": "少数派 · 2026/8/2",
+      "url": "https://sspai.com/post/113014",
+      "publishedAt": "2026-08-02T22:49:31.000Z"
+    },
+    {
+      "id": "sspai-https://sspai.com/post/112843",
+      "title": "从拉萨到雅鲁藏布江大峡谷，我的春日西藏游记",
+      "meta": "少数派 · 2026/8/2",
+      "url": "https://sspai.com/post/112843",
+      "publishedAt": "2026-08-02T06:38:25.000Z"
+    },
+    {
+      "id": "sspai-https://sspai.com/post/112701",
+      "title": "「弯道超车」赛车入门指北：进站不只为换胎，策略里的那本时间账",
+      "meta": "少数派 · 2026/8/1",
+      "url": "https://sspai.com/post/112701",
+      "publishedAt": "2026-08-01T04:54:31.000Z"
+    },
+    {
+      "id": "sspai-https://sspai.com/post/112962",
+      "title": "本月玩什么｜节奏天国、斯普拉遁 涂击队、刺客信条：黑旗 记忆重置",
+      "meta": "少数派 · 2026/7/31",
+      "url": "https://sspai.com/post/112962",
+      "publishedAt": "2026-07-31T10:49:07.000Z"
+    },
+    {
+      "id": "sspai-https://sspai.com/post/112961",
+      "title": "本周看什么 | 最近值得一看的 10 部作品",
+      "meta": "少数派 · 2026/7/31",
+      "url": "https://sspai.com/post/112961",
+      "publishedAt": "2026-07-31T09:57:39.000Z"
+    },
+    {
+      "id": "sspai-https://sspai.com/post/112730",
+      "title": "App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图",
+      "meta": "少数派 · 2026/7/31",
+      "url": "https://sspai.com/post/112730",
+      "publishedAt": "2026-07-31T07:00:36.000Z"
+    },
+    {
+      "id": "sspai-https://sspai.com/post/112833",
+      "title": "简单有效的 E-cise，如何让我摆脱体态不良的「三件套」？",
+      "meta": "少数派 · 2026/7/31",
+      "url": "https://sspai.com/post/112833",
+      "publishedAt": "2026-07-31T02:21:28.000Z"
+    },
+    {
+      "id": "sspai-https://sspai.com/post/112930",
+      "title": "派早报：小米汽车举行 SKYNOMAD 小米澎程技术发布会等",
+      "meta": "少数派 · 2026/7/31",
+      "url": "https://sspai.com/post/112930",
+      "publishedAt": "2026-07-31T00:37:53.000Z"
+    },
+    {
+      "id": "sspai-https://sspai.com/post/112405",
+      "title": "App+1 | 免费、多功能的远程控制新选择：网易 UU 远程",
+      "meta": "少数派 · 2026/7/30",
+      "url": "https://sspai.com/post/112405",
+      "publishedAt": "2026-07-30T09:30:00.000Z"
+    }
+  ],
+  "updatedAt": "2026-08-03T03:54:56.082Z",
+  "provider": "OneBench 公共资讯快照"
+}
