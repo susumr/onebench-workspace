@@ -1,0 +1,192 @@
+{
+  "workspace": {
+    "version": "1.0.0",
+    "id": "71039cc9-9f32-426f-9eb4-42a444901ba6",
+    "name": "创作与开发工作台",
+    "sourcePack": "creator",
+    "intent": "我是自媒体创作者兼独立开发者，最想管理内容生产（公众号写作计划、灵感收集、发布日历、阅读数据复盘）和独立开发项目（想法池、需求优先级、开发进度、上线迭代、收入记录）。",
+    "profile": {
+      "displayName": "susumr",
+      "avatarId": "role"
+    },
+    "createdAt": "2026-08-03T06:13:27.469Z",
+    "updatedAt": "2026-08-03T06:13:27.469Z",
+    "theme": {
+      "id": "creator-coral",
+      "name": "创作珊瑚",
+      "accent": "#b95f72"
+    },
+    "layout": "focus-first",
+    "modules": [
+      {
+        "id": "calendar",
+        "enabled": true,
+        "placement": "home",
+        "size": "small",
+        "order": 0
+      },
+      {
+        "id": "weather",
+        "enabled": true,
+        "placement": "sidebar",
+        "size": "small",
+        "order": 1
+      },
+      {
+        "id": "tasks",
+        "enabled": true,
+        "placement": "home",
+        "size": "medium",
+        "order": 2
+      },
+      {
+        "id": "quick-note",
+        "enabled": true,
+        "placement": "sidebar",
+        "size": "medium",
+        "order": 3
+      },
+      {
+        "id": "habits",
+        "enabled": true,
+        "placement": "sidebar",
+        "size": "medium",
+        "order": 4
+      },
+      {
+        "id": "news",
+        "enabled": true,
+        "placement": "home",
+        "size": "medium",
+        "order": 5
+      },
+      {
+        "id": "profile",
+        "enabled": true,
+        "placement": "sidebar",
+        "size": "medium",
+        "order": 6
+      },
+      {
+        "id": "appearance",
+        "enabled": true,
+        "placement": "sidebar",
+        "size": "medium",
+        "order": 7
+      },
+      {
+        "id": "sync",
+        "enabled": true,
+        "placement": "sidebar",
+        "size": "medium",
+        "order": 8
+      },
+      {
+        "id": "settings",
+        "enabled": true,
+        "placement": "sidebar",
+        "size": "medium",
+        "order": 9
+      },
+      {
+        "id": "inbox",
+        "enabled": true,
+        "placement": "home",
+        "size": "medium",
+        "order": 10
+      },
+      {
+        "id": "content-pipeline",
+        "enabled": true,
+        "placement": "home",
+        "size": "wide",
+        "order": 11
+      },
+      {
+        "id": "content-calendar",
+        "enabled": true,
+        "placement": "home",
+        "size": "medium",
+        "order": 12
+      },
+      {
+        "id": "analytics",
+        "enabled": true,
+        "placement": "home",
+        "size": "medium",
+        "order": 13
+      },
+      {
+        "id": "goals",
+        "enabled": true,
+        "placement": "sidebar",
+        "size": "medium",
+        "order": 14
+      },
+      {
+        "id": "review",
+        "enabled": true,
+        "placement": "home",
+        "size": "medium",
+        "order": 15
+      },
+      {
+        "id": "files",
+        "enabled": true,
+        "placement": "sidebar",
+        "size": "wide",
+        "order": 16
+      },
+      {
+        "id": "reading",
+        "enabled": true,
+        "placement": "sidebar",
+        "size": "medium",
+        "order": 17
+      },
+      {
+        "id": "diary",
+        "enabled": true,
+        "placement": "sidebar",
+        "size": "medium",
+        "order": 18
+      },
+      {
+        "id": "projects",
+        "enabled": true,
+        "placement": "sidebar",
+        "size": "medium",
+        "order": 19
+      },
+      {
+        "id": "finance",
+        "enabled": true,
+        "placement": "sidebar",
+        "size": "medium",
+        "order": 20
+      },
+      {
+        "id": "invoices",
+        "enabled": true,
+        "placement": "sidebar",
+        "size": "medium",
+        "order": 21
+      },
+      {
+        "id": "github-activity",
+        "enabled": true,
+        "placement": "sidebar",
+        "size": "medium",
+        "order": 22
+      },
+      {
+        "id": "focus",
+        "enabled": true,
+        "placement": "sidebar",
+        "size": "small",
+        "order": 23
+      }
+    ]
+  },
+  "edition": "basic"
+}

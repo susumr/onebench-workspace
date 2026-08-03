@@ -1,0 +1,8 @@
+{
+  "format": "onebench-ownership/v1",
+  "repository": "susumr/onebench-workspace",
+  "demoUrl": "https://susumr.github.io/onebench-workspace/",
+  "upstream": "diyiwuyan/onebench",
+  "deployment": "github-pages-actions",
+  "registry": "https://raw.githubusercontent.com/diyiwuyan/onebench/main/packages/community-registry/registry.json"
+}
