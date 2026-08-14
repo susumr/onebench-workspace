@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2gpjxyxzgo/trad#0",
+      "title": "朱鎔基的話：從「搞台獨沒好下場」 到「搞壞香港是民族罪人」",
+      "meta": "BBC 中文 · 2026/8/14",
+      "url": "https://www.bbc.com/zhongwen/articles/cm2gpjxyxzgo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T09:20:28.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ce34eqlg2ppo/trad#0",
       "title": "美軍林肯號航母航行250天 引發官兵人道狀況擔憂",
       "meta": "BBC 中文 · 2026/8/14",
@@ -38,13 +45,6 @@
       "meta": "BBC 中文 · 2026/8/13",
       "url": "https://www.bbc.com/zhongwen/articles/cg4dp9g9v1ko/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-13T12:32:18.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm2gpjxyxzgo/trad#0",
-      "title": "朱鎔基：台灣記住「搞台獨沒好下場」 香港感念「挺港功臣」",
-      "meta": "BBC 中文 · 2026/8/13",
-      "url": "https://www.bbc.com/zhongwen/articles/cm2gpjxyxzgo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T09:58:02.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cp87prg297po/trad#2",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-24T04:45:44.000Z"
     }
   ],
-  "updatedAt": "2026-08-14T07:51:56.623Z",
+  "updatedAt": "2026-08-14T09:28:17.527Z",
   "provider": "OneBench 公共资讯快照"
 }
