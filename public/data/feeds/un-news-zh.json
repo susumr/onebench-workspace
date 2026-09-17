@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142809",
+      "title": "联合国：叙利亚政治过渡和人道主义恢复仍面临多重挑战",
+      "meta": "联合国新闻 · 2026/9/17",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142809",
+      "publishedAt": "2026-09-17T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142808",
+      "title": "联合国：加强宗教间和文化间对话 共同打击仇恨言论",
+      "meta": "联合国新闻 · 2026/9/17",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142808",
+      "publishedAt": "2026-09-17T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142806",
       "title": "世界气象组织：全球水资源储量持续下降 水循环更加不稳定",
       "meta": "联合国新闻 · 2026/9/17",
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/9/11",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142775",
       "publishedAt": "2026-09-11T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142774",
-      "title": "安理会反恐执行局趋势报告：恐怖主义宣传日益成为行动基础设施",
-      "meta": "联合国新闻 · 2026/9/11",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142774",
-      "publishedAt": "2026-09-11T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142772",
-      "title": "乌克兰：针对切尔诺贝利的无人机袭击是“在拿数百万人的安全冒险”",
-      "meta": "联合国新闻 · 2026/9/10",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142772",
-      "publishedAt": "2026-09-10T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-17T18:15:31.115Z",
+  "updatedAt": "2026-09-17T21:28:04.635Z",
   "provider": "OneBench 公共资讯快照"
 }

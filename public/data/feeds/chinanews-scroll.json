@@ -5,6 +5,13 @@
   "title": "中国新闻网",
   "items": [
     {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/09-18/10698617.shtml",
+      "title": "古基因组清晰揭示：青铜时代东天山主体人群是东亚和北亚组合",
+      "meta": "中国新闻网 · 2026/9/17",
+      "url": "https://www.chinanews.com.cn/gn/2026/09-18/10698617.shtml",
+      "publishedAt": "2026-09-17T18:09:02.000Z"
+    },
+    {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/ydyl/2026/09-18/10698616.shtml",
       "title": "中哈地方合作驶入“快车道”",
       "meta": "中国新闻网 · 2026/9/17",
@@ -206,15 +213,8 @@
       "meta": "中国新闻网 · 2026/9/17",
       "url": "https://www.chinanews.com.cn/txy/2026/09-17/10698581.shtml",
       "publishedAt": "2026-09-17T14:59:52.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-17/10698580.shtml",
-      "title": "秦纯香：以创新出圈 打造“可以逛的非遗博物馆”",
-      "meta": "中国新闻网 · 2026/9/17",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-17/10698580.shtml",
-      "publishedAt": "2026-09-17T14:56:09.000Z"
     }
   ],
-  "updatedAt": "2026-09-17T18:15:31.115Z",
+  "updatedAt": "2026-09-17T21:28:04.635Z",
   "provider": "OneBench 公共资讯快照"
 }
